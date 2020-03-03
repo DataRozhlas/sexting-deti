@@ -1,32 +1,32 @@
-
+import "./byeie";
 Highcharts.chart('averagetime', {
     chart: {
         type: 'column'
     },
     title: {
-        text: 'Monthly Average Rainfall'
+        text: 'Průměrný věk strávený online'
     },
     subtitle: {
-        text: 'Source: WorldClimate.com'
+        text: ''
     },
     xAxis: {
         categories: [
             'Slovensko',
-            'RS',
-            'RO',
-            'PT',
-            'PL',
-            'NO',
-            'MT',
-            'LT',
-            'IT',
+            'Srbsko',
+            'Rumunsko',
+            'Portugalsko',
+            'Polsko',
+            'Norsko',
+            'Malta',
+            'Litva',
+            'Itálie',
             'HT',
-            'FR',
-            'ES',
-            'EE',
-            'DE',
-            'CZ',
-            'CH',
+            'Francie',
+            'Španělsko',
+            'Estonsko',
+            'Německo',
+            'Česká republika',
+            'Švýcarsko',
             'Průměr',
         ],
         crosshair: true
@@ -34,7 +34,7 @@ Highcharts.chart('averagetime', {
     yAxis: {
         min: 0,
         title: {
-            text: 'Rainfall (mm)'
+            text: 'v minutách'
         }
     },
     tooltip: {
