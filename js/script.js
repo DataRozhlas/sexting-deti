@@ -16,10 +16,13 @@ Highcharts.setOptions({
 
 Highcharts.chart('negative', {
     chart: {
-        type: 'column'
+        type: 'bar'
     },
     title: {
         text: 'Rozrušilo tě v posledním roce něco na internetu?'
+    },
+    credits: {
+        enabled: false
     },
     subtitle: {
         text: 'děti, které odpověděly ano'
@@ -87,6 +90,9 @@ Highcharts.chart('negative', {
     chart: {
         type: 'bar'
     },
+    credits: {
+        enabled: false
+    },
     title: {
         text: 'Zažil jsi něco online, co tě rozrušilo?'
     },
@@ -140,10 +146,13 @@ Highcharts.chart('negative', {
 //grafctvrty
 Highcharts.chart('sexzpravy', {
     chart: {
-        type: 'column'
+        type: 'bar'
     },
     title: {
         text: 'Dostal jsi jakýkoliv sexuálně zabarvený obsah?'
+    },
+    credits: {
+        enabled: false
     },
     subtitle: {
         text: 'v posledním roce: zprávy, fotografie, videa'
@@ -210,6 +219,9 @@ Highcharts.chart('rodice', {
     },
     title: {
         text: 'Baví se s tebou rodiče o internetu?'
+    },
+    credits: {
+        enabled: false
     },
     xAxis: {
         categories: [
@@ -318,6 +330,9 @@ Highcharts.chart('setkani', {
     },
     title: {
         text: 'Komunikoval jsi na internetu s někým, koho jsi dříve neznal?'
+    },
+    credits: {
+        enabled: false
     },
     subtitle: {
         text: 'děti, které odpověděly ano'

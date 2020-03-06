@@ -1,4 +1,4 @@
-title: "Evropská data:<br>Téměř polovina českých dětí online komunikuje s někým, koho nezná. Ve 20 procentech došlo na osobní setkání"
+title: "Evropská data:<br>Téměř polovina českých dětí se na síti baví s cizími lidmi. Ve 20 procentech se s nimi sešli"
 perex: "Na internetu tráví dvakrát více času než před deseti lety, stále častěji na něm mluví s lidmi, které nikdy neviděli. Podobnou zkušenost má 44 procent českých dospívajících, v Evropském srovnání jsou pak tuzemské děti na druhé příčce v tom, kolik z nich na internetu vidělo sexuálně laděný obsah. Podle odborníků ale možná rizika přeceňujeme."
 coverimg: https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/uploader/147698334_2893c8c130_180207-071646_mos.jpg?itok=fi1P7A36
 coverimg_note: "Foto <a href='https://ctk.cz'>Flickr (CC BY 2.0)</a>"
@@ -11,7 +11,7 @@ Polovina všech českých dospívajících ve věku 15-16 let navíc odpověděl
 „Je to relativně hodně. U nás jsme k sexuálním obsahům liberálnější. Netýká se to jen internetu, objevuje se ve všech médiích,“ vysvětluje pro server iROZHLAS.cz Hana Macháčková z výzkumného týmu [IRTIS](https://irtis.muni.cz/) Masarykovy univerzity v Brně, spoluautorka mezinárodní studie [EU Kids Online 2020](https://irtis.muni.cz/news/eu-kids-online-2020-report), která aktivitu dětí mapovala v 19 zemích. 
 
 <wide>
-<div id="sexzpravy">
+<div id="sexzpravy", class="vysoky">
 </div>
 </wide>
 
@@ -50,7 +50,7 @@ Právě na západě je internet více regulovaný, Němci si historicky více hl
 „V Česku hodně platí to, že pokud to dělám na internetu, není to doopravdy,“ míní Macháčková.
 
 <wide>
-<div id="negative">
+<div id="negative", class="vysoky">
 </div>
 </wide>
 
@@ -129,7 +129,7 @@ Bližší data prozrazují, že ve většině případů se děti setkávají a 
 Jak ale upozorňuje kriminalista Písecký, v některých případech se za profily náctiletých mohou skrývat útočníci. „Pachatelů existuje celá řada, někteří neskrývají svou identitu ani úmysly. Rovnou jdou na věc, požádají o intimní fotografie a podobně. Druhá skupina používá sofistikovanější metody, falešné profily, budují důvěru,“ popsal.
 
 <wide>
-<div id="setkani">
+<div id="setkani", class="vysoky">
 </div>
 </wide>
 
