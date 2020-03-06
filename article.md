@@ -81,7 +81,7 @@ Data pak potrvzují, že špatnou zkušenost děti mívají jen sporadicky. I je
 „Citlivějším dětem může být nepříjemná i zdánlivě nevinná otázka na to, jak se mu daří ve škole,“ vysvětluje pro server iROZHLAS.cz Lenka Dědková z Institutu výzkumu dětí, mládeže a rodiny Masarykovy univerzity.
 
 <wide>
-<div id="frekvence">
+<div id="frekvence", class="vysoky">
 </div>
 </wide>
 
@@ -96,7 +96,7 @@ Právě menší děti ale mnohy potřebují pomoct nastavit na sociálních sít
 „Je pravda, že hodně preventivních akcí je cílených na děti, zatímco bychom potřebovali vzdělávat i rodiče,“ míní Macháčková.
 
 <wide>
-<div id="rodice">
+<div id="rodice", class="vysoky">
 </div>
 </wide>
 
