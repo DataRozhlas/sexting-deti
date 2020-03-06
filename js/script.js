@@ -14,75 +14,6 @@ Highcharts.setOptions({
     colors: ['#AA4643', '#4572A7', '#F79A0C', '#3D96A', '#F79A0C', '#172983', '#007BC2', '#89BA17', '#D4B66D', '#B85637', '#A21F16', '#732813', '#5C748C']
 });
 
-Highcharts.chart('averagetime', {
-    chart: {
-        type: 'column'
-    },
-    title: {
-        text: 'Kolik času strávíš na internetu?'
-    },
-    subtitle: {
-        text: 'denně, podle věku'
-    },
-    xAxis: {
-        categories: [
-            'Evropský průměr',
-            'Česká republika',
-            'Slovensko',
-            'Srbsko',
-            'Rumunsko',
-            'Portugalsko',
-            'Polsko',
-            'Norsko',
-            'Malta',
-            'Litva',
-            'Itálie',
-            'Chorvatsko',
-            'Francie',
-            'Španělsko',
-            'Estonsko',
-            'Německo',
-            'Švýcarsko',
-        ],
-        crosshair: true
-    },
-    yAxis: {
-        min: 0,
-        title: {
-            text: 'v minutách'
-        }
-    },
-    tooltip: {
-        headerFormat: '<span style="font-size:09px">{point.key}</span><table>',
-        pointFormat: '<tr><td style="color:{series.color};padding:0">{series.name}: </td>' +
-            '<td style="padding:0"><b>{point.y:.0f} minut</b></td></tr>',
-        footerFormat: '</table>',
-        shared: true,
-        useHTML: true
-    },
-    plotOptions: {
-        column: {
-            pointPadding: 0.2,
-            borderWidth: 0
-        }
-    },
-    series: [{
-        name: '9-11 let',
-        data: [114, 114, 102, 106, 132, 119, 110, 165, 139, 122, 93, 119, 91, 131, 125, 88, 74]
-  
-    }, {
-        name: '12-14 let',
-        data: [192, 184, 157, 211, 185, 193, 188, 237, 224, 190, 156, 162, 159, 202, 206, 146, 170],
-  
-    }, {
-        name: '15-16 let',
-        data: [229, 252, 181, 275, 239, 230, 231, 267, 236, 221,184, 205, 200, 253, 212, 196, 207],
-        visible:false
-  
-    }]
-  });
-
-//graf druhy
 Highcharts.chart('negative', {
     chart: {
         type: 'column'
@@ -202,7 +133,7 @@ Highcharts.chart('negative', {
         data: [17, 23, 4, 23, 25, 17, 17, 17, 30, 16, 6, 11, 12, 24, 17, 7, 27]
     }, {
         name: 'nikdy',
-        data: [75, 66, 93, 65, 67, 78, 75, 79, 55, 77, 90, 86, 83, 66, 76, 91, 62]
+        data: [75, 66, 93, 65, 67, 78, 75, 79, 55, 77, 90, 86, 83, 66, 76, 91, 62],
     }]
 });
 
@@ -215,7 +146,7 @@ Highcharts.chart('sexzpravy', {
         text: 'Dostal jsi jakýkoliv sexuálně zabarvený obsah?'
     },
     subtitle: {
-        text: 'zprávy, fotografie, videa'
+        text: 'v posledním roce: zprávy, fotografie, videa'
     },
     xAxis: {
         categories: [
@@ -269,80 +200,6 @@ Highcharts.chart('sexzpravy', {
         name: '15-16 let',
         data: [32, 50, 41, 15, 47, 30, 36, 24, 49, 44, 15, 12, 17, 14, 38, 45, 18, 43, 45]
   
-    }]
-  });
-
-//grafpaty
-Highcharts.chart('sexpic', {
-    chart: {
-        type: 'column'
-    },
-    title: {
-        text: 'Viděl jsi něco sexuálně laděného?'
-    },
-    subtitle: {
-        text: 'internet, tisk, televize'
-    },
-    xAxis: {
-        categories: [
-            'Evropský průměr',
-            'Česká republika',
-            'Slovensko',
-            'Srbsko',
-            'Rumunsko',
-            'Portugalsko',
-            'Polsko',
-            'Norsko',
-            'Malta',
-            'Litva',
-            'Itálie',
-            'Chorvatsko',
-            'Francie',
-            'Španělsko',
-            'Estonsko',
-            'Švýcarsko',
-        ],
-        crosshair: true
-    },
-    yAxis: {
-        min: 0,
-        title: {
-            text: 'procent'
-        }
-    },
-    tooltip: {
-        headerFormat: '<span style="font-size:10px">{point.key}</span><table>',
-        pointFormat: '<tr><td style="color:{series.color};padding:0">{series.name}: </td>' +
-            '<td style="padding:0"><b>{point.y:.0f} procent dětí</b></td></tr>',
-        footerFormat: '</table>',
-        shared: true,
-        useHTML: true
-    },
-    plotOptions: {
-        column: {
-            pointPadding: 0.2,
-            borderWidth: 0
-        }
-    },
-    series: [{
-        name: 'děti, které odpověděly ano',
-        data: [
-            33,
-            43,
-            27,
-            50,
-            36,
-            32,
-            29,
-            39,
-            40,
-            24,
-            27,
-            28,
-            21,
-            41,
-            22,
-            41]
     }]
   });
 
@@ -408,7 +265,8 @@ Highcharts.chart('rodice', {
             27,
             24,
             38,
-            23,]
+            23,],
+            visible:false
     }, {
         name: 'občas',
         data: [
@@ -428,7 +286,8 @@ Highcharts.chart('rodice', {
             21,
             35,
             43,
-            22,]
+            22,],
+            visible:false
     }, {
         name: 'nikdy',
         data: [
@@ -452,73 +311,10 @@ Highcharts.chart('rodice', {
     }]
 });
 
-//grafsedmy
-Highcharts.chart('safeonline', {
-    chart: {
-        type: 'column'
-    },
-    title: {
-        text: 'Cítíš se online v bezpečí?'
-    },
-    subtitle: {
-        text: 'dětí, které odpověděly vždy nebo velmi často'
-    },
-    xAxis: {
-        categories: [
-            'Evropský průměr',
-            'Česká republika',
-            'Slovensko',
-            'Srbsko',
-            'Rumunsko',
-            'Portugalsko',
-            'Polsko',
-            'Norsko',
-            'Malta',
-            'Litva',
-            'Itálie',
-            'Chorvatsko',
-            'Francie',
-            'Španělsko',
-            'Estonsko',
-            'Německo',
-        ],
-        crosshair: true
-    },
-    yAxis: {
-        min: 0,
-        title: {
-            text: 'procent'
-        }
-    },
-    tooltip: {
-        headerFormat: '<span style="font-size:10px">{point.key}</span><table>',
-        pointFormat: '<tr><td style="color:{series.color};padding:0">{series.name}: </td>' +
-            '<td style="padding:0"><b>{point.y:.0f} procent</b></td></tr>',
-        footerFormat: '</table>',
-        shared: true,
-        useHTML: true
-    },
-    plotOptions: {
-        column: {
-            pointPadding: 0.2,
-            borderWidth: 0
-        }
-    },
-    series: [{
-        name: 'dívky',
-        data: [61, 43, 67, 54, 44, 42, 56, 91, 49, 73, 53, 74, 55, 47, 79, 85]
-  
-    }, {
-        name: 'chlapci',
-        data: [70, 61, 65, 71, 50, 61, 69, 95, 60, 79, 64, 81, 58, 61, 84, 89]
-  
-    }]
-  });
-
 //grafosmy
-  Highcharts.chart('setkani', {
+Highcharts.chart('setkani', {
     chart: {
-        type: 'column'
+        type: 'bar'
     },
     title: {
         text: 'Komunikoval jsi na internetu s někým, koho jsi dříve neznal?'
@@ -574,69 +370,6 @@ Highcharts.chart('safeonline', {
     }, {
         name: 'setkali jsme se',
         data: [16, 20, 17, 25, 23, 20, 19, 21, 16, 12, 10, 10, 5, 22, 13, 14]
-  
-    }]
-  });
-
-//grafdevaty
-Highcharts.chart('setkanipohlavi', {
-    chart: {
-        type: 'column'
-    },
-    title: {
-        text: 'Kontakt s neznámými lidmi podle pohlaví'
-    },
-    subtitle: {
-        text: 've věku 9-16 let'
-    },
-    xAxis: {
-        categories: [
-            'Evropský průměr',
-            'Česká republika',
-            'Slovensko',
-            'Srbsko',
-            'Rumunsko',
-            'Portugalsko',
-            'Polsko',
-            'Norsko',
-            'Malta',
-            'Litva',
-            'Itálie',
-            'Chorvatsko',
-            'Francie',
-            'Španělsko',
-            'Estonsko',
-            'Švýcarsko',
-        ],
-        crosshair: true
-    },
-    yAxis: {
-        min: 0,
-        title: {
-            text: 'procent'
-        }
-    },
-    tooltip: {
-        headerFormat: '<span style="font-size:10px">{point.key}</span><table>',
-        pointFormat: '<tr><td style="color:{series.color};padding:0">{series.name}: </td>' +
-            '<td style="padding:0"><b>{point.y:.0f} procent</b></td></tr>',
-        footerFormat: '</table>',
-        shared: true,
-        useHTML: true
-    },
-    plotOptions: {
-        column: {
-            pointPadding: 0.2,
-            borderWidth: 0
-        }
-    },
-    series: [{
-        name: 'dívky',
-        data: [33, 39, 33, 42, 38, 52, 33, 30, 24, 25, 21, 35, 38, 41, 32, 34]
-  
-    }, {
-        name: 'chlapci',
-        data: [35, 43, 43, 50, 42, 61, 35, 34, 23, 31, 29, 42, 46, 47, 35, 40]
   
     }]
   });
