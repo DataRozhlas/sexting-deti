@@ -1,5 +1,5 @@
 title: "Evropská data:<br>Téměř polovina českých dětí se na síti baví s cizími lidmi. Ve 20 procentech se s nimi sešli"
-perex: "Na internetu tráví dvakrát více času než před deseti lety, stále častěji na něm mluví s lidmi, které nikdy neviděli. Podobnou zkušenost má 44 procent českých dospívajících, v Evropském srovnání jsou pak tuzemské děti na druhé příčce v tom, kolik z nich na internetu vidělo sexuálně laděný obsah. Podle odborníků ale možná rizika přeceňujeme."
+perex: "Na internetu tráví dvakrát víc času než před deseti lety a stále častěji si přes síť povídají s lidmi, které nikdy neviděli. V Evropě jsou české děti na druhé příčce v tom, kolik z nich na internetu vidělo sexuálně laděný obsah. Podle odborníků ale možná rizika přeceňujeme."
 coverimg: https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/uploader/147698334_2893c8c130_180207-071646_mos.jpg?itok=fi1P7A36
 coverimg_note: "Foto <a href='https://ctk.cz'>Flickr (CC BY 2.0)</a>"
 styles: []
