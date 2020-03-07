@@ -152,14 +152,15 @@ Highcharts.chart('sexzpravy', {
         text: 'Dostal jsi jakýkoliv sexuálně zabarvený obsah?'
     },
     credits: {
-        enabled: false
+        enabled: true,
+        text: 'Zdroj: EU Kids Online 2020',
+        href: 'https://irtis.muni.cz/news/eu-kids-online-2020-report'
     },
     subtitle: {
         text: 'v posledním roce: zprávy, fotografie, videa'
     },
     xAxis: {
         categories: [
-            'Evropský průměr',
             'Česká republika',
             'Flandry',
             'Slovensko',
@@ -202,14 +203,20 @@ Highcharts.chart('sexzpravy', {
         }
     },
     series: [{
-        name: '12-14 let',
-        data: [16, 25, 36, 6, 22, 23, 15, 9, 17, 21, 8, 6, 5, 9, 14, 25, 6, 21, 25]
-  
-    }, {
         name: '15-16 let',
-        data: [32, 50, 41, 15, 47, 30, 36, 24, 49, 44, 15, 12, 17, 14, 38, 45, 18, 43, 45]
+        data: [50, 41, 15, 47, 30, 36, 24, 49, 44, 15, 12, 17, 14, 38, 45, 18, 43, 45],
+        dataSorting: {
+            enabled: true
+        }
   
-    }]
+    }, 
+    {
+        name: '12-14 let',
+        data: [25, 36, 6, 22, 23, 15, 9, 17, 21, 8, 6, 5, 9, 14, 25, 6, 21, 25]
+  
+    }
+
+]
   });
 
 //grafsesty
