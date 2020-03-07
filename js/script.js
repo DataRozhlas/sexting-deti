@@ -70,17 +70,21 @@ Highcharts.chart('negative', {
         }
     },
     series: [{
+        id: 'hlavni',
         name: '9-11 let',
-        data: [20, 25, 4, 31, 27, 21, 18, 13, 40, 15, 8, 10, 10, 34, 22, 3, 33]
-  
-    }, {
+        data: [20, 25, 4, 31, 27, 21, 18, 13, 40, 15, 8, 10, 10, 34, 22, 3, 33],
+        dataSorting: {
+            enabled: true
+        }
+      }, {
+        linkedTo: 'hlavni',
         name: '12-14 let',
-        data: [27, 35, 9, 36, 36, 21, 25, 25, 49, 26, 8, 13, 23, 30, 22, 13, 39]
-  
+        data: [27, 35, 9, 36, 36, 21, 25, 25, 49, 26, 8, 13, 23, 30, 22, 13, 39],
+        visible: false
     }, {
+        linkedTo: 'hlavni',
         name: '15-16 let',
         data: [34, 50, 10, 41, 37, 25, 36, 29, 49,32, 19, 23, 17, 41, 35, 11, 52],
-        visible:false
   
     }]
   });
@@ -144,6 +148,20 @@ Highcharts.chart('negative', {
 });
 
 //grafctvrty
+
+var sexzpravyData = [];
+
+var dataKategorie = [ 'Evropský průměr', 'Česká republika', 'Belgie (Flandry)', 'Slovensko', 'Srbsko', 'Rumunsko', 'Portugalsko', 'Polsko', 'Norsko', 'Malta', 'Litva', 'Itálie', 'Chorvatsko', 'Francie', 'Finsko', 'Španělsko', 'Estonsko', 'Německo', 'Švýcarsko', ];
+
+var dataHodnoty = [32, 50, 41, 15, 47, 30, 36, 24, 49, 44, 15, 12, 17, 14, 38, 45, 18, 43, 45];
+
+for (let index = 0; index < dataHodnoty.length; index++) {
+    sexzpravyData.push(
+        {y: dataHodnoty[index],
+        name: dataKategorie[index]}
+    );    
+}
+
 Highcharts.chart('sexzpravy', {
     chart: {
         type: 'bar'
@@ -160,26 +178,7 @@ Highcharts.chart('sexzpravy', {
         text: 'v posledním roce: zprávy, fotografie, videa'
     },
     xAxis: {
-        categories: [
-            'Česká republika',
-            'Belgie (Flandry)',
-            'Slovensko',
-            'Srbsko',
-            'Rumunsko',
-            'Portugalsko',
-            'Polsko',
-            'Norsko',
-            'Malta',
-            'Litva',
-            'Itálie',
-            'Chorvatsko',
-            'Francie',
-            'Finsko',
-            'Španělsko',
-            'Estonsko',
-            'Německo',
-            'Švýcarsko',
-        ],
+        type: 'category',
         crosshair: true
     },
     yAxis: {
@@ -202,19 +201,22 @@ Highcharts.chart('sexzpravy', {
             borderWidth: 0
         }
     },
-    series: [{
+    series: [ {
+        linkedTo: 'hlavni',
+        showInLegend: true,
         name: '12-14 let',
-        data: [25, 36, 6, 22, 23, 15, 9, 17, 21, 8, 6, 5, 9, 14, 25, 6, 21, 25],
-        visible: false
-  
+        data: [16, 25, 36, 6, 22, 23, 15, 9, 17, 21, 8, 6, 5, 9, 14, 25, 6, 21, 25],    
     },{
+        id: 'hlavni',
         name: '15-16 let',
-        data: [50, 41, 15, 47, 30, 36, 24, 49, 44, 15, 12, 17, 14, 38, 45, 18, 43, 45],
+        data: sexzpravyData,
         dataSorting: {
             enabled: true
         }
-  
     }
+       
+  
+    
 ]
   });
 

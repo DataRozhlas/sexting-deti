@@ -1,5 +1,5 @@
-title: "Evropská data:<br>Téměř polovina českých dětí se na síti baví s cizími lidmi. Ve 20 procentech se s nimi sešli"
-perex: "Na internetu tráví tři hodiny denně – dvakrát víc času než před deseti lety – a stále častěji si přes síť povídají s lidmi, které v životě neviděli. V Evropě jsou české děti od 9 do 16 let na druhém místě v tom, kolik z nich vidělo na počítači sexuálně laděný obsah. Podle vědců to samo o sobě není důvod k panice či zákazům: rizika on-line světa rodiče často zjednodušují a reagují ukvapeně, nyní třeba i pod vlivem divácky úspěšného filmu V síti."
+title: "Nebezpečí <em>V síti</em>? Film ukazuje jen výsek reality, upozorňují vědci nad detailními daty"
+perex: "Na internetu tráví tři hodiny denně – dvakrát víc času než před deseti lety – a stále častěji si přes síť povídají s lidmi, které v životě neviděli. V Evropě jsou české děti od 9 do 16 let na druhém místě v tom, kolik z nich vidělo na počítači sexuálně laděný obsah. Podle autorů rozsáhlé studie o dětském chování on-line to samo o sobě není důvod k panice či zákazům: rizika on-line světa rodiče často zjednodušují a reagují ukvapeně, nyní třeba i pod vlivem divácky úspěšného filmu V síti, který však ukazuje jen část komplikované skutečnosti."
 coverimg: https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/uploader/147698334_2893c8c130_180207-071646_mos.jpg?itok=fi1P7A36
 coverimg_note: "Foto <a href='https://ctk.cz'>Flickr (CC BY 2.0)</a>"
 styles: []
@@ -36,17 +36,22 @@ Přes internet si mládež podle studie posílá a dostává širokou škálu sd
 
 „Pokud dítě sexuálně laděnou zprávu dostane od někoho, koho má rádo, naváže další kontakt. Je to normální součást dospívání,“ vysvětluje sociální psycholožka Macháčková.
 
-A když jde o nevyžádanou zprávu, víc než třetina dětí umí zareagovat zavřením aplikace či zablokováním odesílatele. Každé sedmé dítě, častěji chlapci než dívky, pak upraví nastavení soukromí, případně nahlásí přestupek provozovateli dané platformy, aby je už stejný kontakt podruhé neobtěžoval. Jedno z deseti dětí pak reaguje tak, že internet na nějakou dobu přestane používat.  
+A když jde o nepříjemný zážitek, víc než třetina dětí umí zareagovat zavřením aplikace či zablokováním odesílatele. Každé sedmé dítě, častěji chlapci než dívky, pak upraví nastavení soukromí, případně nahlásí přestupek provozovateli dané platformy, aby je už stejný kontakt podruhé neobtěžoval. Jedno z deseti dětí pak reaguje tak, že internet na nějakou dobu přestane používat.  
 
 „Některé děti jsou více resilientní, zprávu smažou a nepoznamená je. Horší je to u těch citlivějších,“ vysvětluje psycholožka.
 
 Čím víc času děti na internetu tráví, tím je riziko nevyžádaného střetu se sexuálně laděnými obsahy vyšší. Za poslední dekádu se čas online ve všech sledovaných zemích téměř zdvojnásobil a českjé v porovnání s vrstevníky z jiných zemí nijak nevybočují: v průměru hraním her, chatováním s kamarády nebo sledováním videí stráví tři hodiny denně. Norské děti, které v této statistice vedou, stráví s připojeným mobilem či počítačem v průměru každý den ještě o hodinu déle.
 
-## Je to doopravdy? 
+## Když je to na internetu, není to doopravdy
 
-Češi ale častěji zažívají u monitoru počítače či mobilu nepříjemné situace. Ve věku nad 15 let navíc podobnou zkušenost potvrdila polovina všech dospívajících, do 11 let čtvrtina.
+České děti ale ve srovnání s jinými častěji zažívají u monitoru či displeje nepříjemné situace. Ve věku nad 15 let to potvrdila polovina dotázaných, mezi dětmi na prvním stupni základní školy si na on-line zážitek, který je za poslední rok rozrušil, vzpomněla čtvrtina respondentů.
 
-„Právě s věkovým rozvrstvením rozrušení roste. Čím více používáme internet, tím větší šance je, že se něco takového stane,“ upřesňuje data Macháčková.
+<wide>
+<div id="negative", class="vysoky">
+</div>
+</wide>
+
+Proč s věkem dotazovaných pozitivních odpovědí přibývá? Neměly by být starší děti otrlejší? Podle vědců je to způsobené právě tím, jak děti s přibývajícím věkem tráví víc času on-line. „Čím více používáme internet, tím větší je šance, že se nám něco takového stane,“ upřesňuje data sociální psycholožka Macháčková.
 
 Zajímavé je srovnání se sousední Německem, tamní děti nepříjemné situace zažily minimálně - ty nejmladší jen ve třech procentech případů.
 
@@ -54,10 +59,6 @@ Právě na západě je internet více regulovaný, Němci si historicky více hl
 
 „V Česku hodně platí to, že pokud to dělám na internetu, není to doopravdy,“ míní Macháčková.
 
-<wide>
-<div id="negative", class="vysoky">
-</div>
-</wide>
 
 Shoduje se i vedoucí oddělení informační kriminality pražské policie Václav Písecký. „Internet není anonymní místo, to je jeden z mýtů. Zanechává elektronický otisk, který nás může velmi často nasměrovat ke konkrétnímu uživateli,“ uvedl kriminalista v rozhovoru pro Radiožurnál.
 
