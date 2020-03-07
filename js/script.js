@@ -162,7 +162,7 @@ Highcharts.chart('sexzpravy', {
     xAxis: {
         categories: [
             'Česká republika',
-            'Flandry',
+            'Belgie (Flandry)',
             'Slovensko',
             'Srbsko',
             'Rumunsko',
@@ -203,19 +203,18 @@ Highcharts.chart('sexzpravy', {
         }
     },
     series: [{
+        name: '12-14 let',
+        data: [25, 36, 6, 22, 23, 15, 9, 17, 21, 8, 6, 5, 9, 14, 25, 6, 21, 25],
+        visible: false
+  
+    },{
         name: '15-16 let',
         data: [50, 41, 15, 47, 30, 36, 24, 49, 44, 15, 12, 17, 14, 38, 45, 18, 43, 45],
         dataSorting: {
             enabled: true
         }
   
-    }, 
-    {
-        name: '12-14 let',
-        data: [25, 36, 6, 22, 23, 15, 9, 17, 21, 8, 6, 5, 9, 14, 25, 6, 21, 25]
-  
     }
-
 ]
   });
 

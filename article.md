@@ -1,5 +1,5 @@
 title: "Evropská data:<br>Téměř polovina českých dětí se na síti baví s cizími lidmi. Ve 20 procentech se s nimi sešli"
-perex: "Na internetu tráví tři hodiny denně – dvakrát víc času než před deseti lety – a stále častěji si přes síť povídají s lidmi, které v životě neviděli. V Evropě jsou české děti od 9 do 16 let na druhém místě v tom, kolik z nich vidělo na počítači sexuálně laděný obsah. Podle vědců to samo o sobě není důvod k panice a zákazům: rizika on-line světa rodiče často zjednodušují a reagují na ně ukvapeně, třeba i pod vlivem divácky úspěšného filmu V síti."
+perex: "Na internetu tráví tři hodiny denně – dvakrát víc času než před deseti lety – a stále častěji si přes síť povídají s lidmi, které v životě neviděli. V Evropě jsou české děti od 9 do 16 let na druhém místě v tom, kolik z nich vidělo na počítači sexuálně laděný obsah. Podle vědců to samo o sobě není důvod k panice či zákazům: rizika on-line světa rodiče často zjednodušují a reagují ukvapeně, nyní třeba i pod vlivem divácky úspěšného filmu V síti."
 coverimg: https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/uploader/147698334_2893c8c130_180207-071646_mos.jpg?itok=fi1P7A36
 coverimg_note: "Foto <a href='https://ctk.cz'>Flickr (CC BY 2.0)</a>"
 styles: []
@@ -9,7 +9,7 @@ options: [] #wide, noheader (, nopic)
 
 Když se výzkumníci zaměřili jen na skupinu dospívajících od 15 do 16 let, v Česku každý druhý teenager připustil, že za poslední rok přes internet obdržel explicitní fotku nebo zprávu. To je nejvíc z devatenácti sledovaných evropských zemí.
 
-Experty takové zjištění na rozdíl od některých rodičů nechává v klidu: „Je to relativně hodně. Ale u nás jsme k sexuálním obsahům liberálnější. Netýká se to jen internetu, objevují se ve všech médiích,“ řekla v rozhovoru pro server iROZHLAS.cz psycholožka Hana Macháčková z týmu [IRTIS](https://irtis.muni.cz/), který na Masarykově univerzitě zkoumá vliv digitálních technologií na společnost i lidskou psychiku.
+Experty takové zjištění na rozdíl od některých rodičů nechává v klidu: „Je to relativně hodně. Ale u nás jsme k sexuálním obsahům liberálnější. Netýká se to jen internetu, objevují se ve všech médiích,“ řekla v rozhovoru pro server iROZHLAS.cz sociální psycholožka Hana Macháčková z týmu [IRTIS](https://irtis.muni.cz/), který na Masarykově univerzitě zkoumá vliv digitálních technologií na společnost i lidskou psychiku.
 
 Nyní vědci publikují výsledky největší mezinárodní studie svého druhu [EU Kids Online 2020](https://irtis.muni.cz/news/eu-kids-online-2020-report). Zvyklosti, zážitky a chování na internetu zjišťovali u 25 tisíc dětí v devatenácti evropských zemích. 
 
@@ -18,27 +18,29 @@ Nyní vědci publikují výsledky největší mezinárodní studie svého druhu 
 </div>
 </wide>
 
-Podle autorů studie si mladí posílají a dostávají celou škálu věcí - od relativně nevinných zpráv, flirt menšího ražení, až po hrubé sexuální fotografie. 
+Výsledky studie autoři doporučují posuzovat s chladnou hlavou a v celém kontextu: „Je důležité si uvědomit, že sexuálně zabarvené zprávy mohou být vyžádané nebo nevyžádané. Dříve si děti podobné zprávy vyměňovaly jinými způsoby, dnes to dělají pomocí digitálních technologgií,“ říká vedoucí výzkumu David Šmahel.  
 
-Negativní vliv na jejich psychiku to přitom mít nemusí. 
-
-„Pokud dítě sexuálně laděnou zprávu dostane od někoho, koho má rádo, naváže další kontakt. Je to normální součást dospívání,“ říká Macháčková, která se výzkumu chování dětí na internetu věnuje dlouhodobě. 
+## Normální součást dospívání
 
 <right>
+	<h3><a href="https://irtis.muni.cz/news/eu-kids-online-2020-report">EU Kids Online 2020</a></h3>
 	<p>
-	<b>EU Kids Online 2020</b>
-	</p><p>
-	Srovnání 19 evropských států probíhalo v posledních dvou letech, v České republice na vzorku 2,5 tisíce dětí a mladistvých od 9-16 let, kteří se pohybují online. Vědci výsledky porovnávali s deset let starými zjištěními, sběr dat se ale v některých státech mírně lišil. Na mezinárodní studii se za Českou republiku podíleli doc.Hana Macháčkova a Prof. David Šmahel z fakulty sociálních studií a fakulty informatiky Masarykovy univerzity v Brně. 
+	Srovnání 19 evropských států probíhalo v posledních dvou letech, v České republice na vzorku 2,5 tisíce dětí a mladistvých od 9-16 let, kteří se pohybují online.
+	</p>
+	<p>
+	Vědci výsledky porovnávali s deset let starými zjištěními, sběr dat se ale v některých státech mírně lišil.
 	</p>
 </right>
 
-Problém podle ní může nastat až v případě, kdy se k dítěti dostane vulgární zpráva nebo fotka, která je nechtěná.
+Přes internet si mládež podle studie posílá a dostává širokou škálu sdělení, jež lze za sexuálně zabarvený obsah označit: od relativně nevinných romantických zpráv až po hrubé sexuální fotografie. Zdaleka ne všechny a ne vždy mají negativní vliv na jejich psychiku.
 
-„Některé děti jsou více resilientní, zprávu smažou a nepoznamená je. Horší je to u těc citlivějších,“ vysvětluje Macháčková.
+„Pokud dítě sexuálně laděnou zprávu dostane od někoho, koho má rádo, naváže další kontakt. Je to normální součást dospívání,“ vysvětluje sociální psycholožka Macháčková.
 
-Data navíc ukazují, že čím více času se na síti pohybují, tím je šance na střet se sexuálně laděnými obsahy vyšší. Za poslední dekádu se čas online ve všech zemích téměř zdvojnásobil. 
+A když jde o nevyžádanou zprávu, víc než třetina dětí umí zareagovat zavřením aplikace či zablokováním odesílatele. Každé sedmé dítě, častěji chlapci než dívky, pak upraví nastavení soukromí, případně nahlásí přestupek provozovateli dané platformy, aby je už stejný kontakt podruhé neobtěžoval. Jedno z deseti dětí pak reaguje tak, že internet na nějakou dobu přestane používat.  
 
-Tuzemské děti ale v porovnání s vrstevníky z jiných zemí nijak nevybočují, v průměru hraním her, psaním si s kamarády, nebo prohlížením YouTube videií, stráví tři hodiny denně. S hodinou navíc vedou Norové.
+„Některé děti jsou více resilientní, zprávu smažou a nepoznamená je. Horší je to u těch citlivějších,“ vysvětluje psycholožka.
+
+Čím víc času děti na internetu tráví, tím je riziko nevyžádaného střetu se sexuálně laděnými obsahy vyšší. Za poslední dekádu se čas online ve všech sledovaných zemích téměř zdvojnásobil a českjé v porovnání s vrstevníky z jiných zemí nijak nevybočují: v průměru hraním her, chatováním s kamarády nebo sledováním videí stráví tři hodiny denně. Norské děti, které v této statistice vedou, stráví s připojeným mobilem či počítačem v průměru každý den ještě o hodinu déle.
 
 ## Je to doopravdy? 
 
