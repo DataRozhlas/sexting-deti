@@ -1,14 +1,17 @@
 title: "Evropská data:<br>Téměř polovina českých dětí se na síti baví s cizími lidmi. Ve 20 procentech se s nimi sešli"
-perex: "Na internetu tráví dvakrát víc času než před deseti lety a stále častěji si přes síť povídají s lidmi, které nikdy neviděli. V Evropě jsou české děti na druhé příčce v tom, kolik z nich na internetu vidělo sexuálně laděný obsah. Podle odborníků ale možná rizika přeceňujeme."
+perex: "Na internetu tráví tři hodiny denně – dvakrát víc času než před deseti lety – a stále častěji si přes síť povídají s lidmi, které v životě neviděli. V Evropě jsou české děti na druhém místě v tom, kolik z nich vidělo na počítači sexuálně laděný obsah. Podle vědců to samo o sobě ještě není důvod k panice: rizika on-line světa podle nich rodiče často přeceňují, třeba i pod vlivem divácky úspěšného filmu V síti."
 coverimg: https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/uploader/147698334_2893c8c130_180207-071646_mos.jpg?itok=fi1P7A36
 coverimg_note: "Foto <a href='https://ctk.cz'>Flickr (CC BY 2.0)</a>"
 styles: []
 libraries: [highcharts] #jquery, d3, highcharts, datatables
 options: [] #wide, noheader (, nopic)
 ---
-Polovina všech českých dospívajících ve věku 15-16 let navíc odpověděla, že za poslední rok explicitní zprávu nebo fotku od někoho dalšího dostala - nejvíce v celé Evropě. 
 
-„Je to relativně hodně. U nás jsme k sexuálním obsahům liberálnější. Netýká se to jen internetu, objevuje se ve všech médiích,“ vysvětluje pro server iROZHLAS.cz Hana Macháčková z výzkumného týmu [IRTIS](https://irtis.muni.cz/) Masarykovy univerzity v Brně, spoluautorka mezinárodní studie [EU Kids Online 2020](https://irtis.muni.cz/news/eu-kids-online-2020-report), která aktivitu dětí mapovala v 19 zemích. 
+Když se výzkumníci zaměřili jen na skupinu dospívajících od 15 do 16 let, v Česku každý druhý teenager připustil, že za poslední rok přes internet obdržel explicitní fotku nebo zprávu. To je nejvíc z devatenácti sledovaných evropských zemí.
+
+Experty toto zjištění na rozdíl od některých rodičů nechává v klidu: „Je to relativně hodně. U nás jsme k sexuálním obsahům liberálnější. Netýká se to jen internetu, objevují se ve všech médiích,“ vysvětluje pro server iROZHLAS.cz psycholožka Hana Macháčková z týmu [IRTIS](https://irtis.muni.cz/), který na Masarykově univerzitě zkoumá vliv digitálních technologií na společnost i lidskou psychiku.
+
+Nyní publikuje výsledky největší mezinárodní studie svého druhu [EU Kids Online 2020](https://irtis.muni.cz/news/eu-kids-online-2020-report). Zvyklosti, zážitky a chování na internetu zjišťovala u 25 tisíc dětí ve věku od 9 do 16 let v devatenácti evropských zemích. 
 
 <wide>
 <div id="sexzpravy", class="vysoky">
@@ -72,7 +75,7 @@ První víkend po premiéře snímek v kinech vidělo více než 115 tisíc div�
 
 Navíc se shodují, že dvanáctiletí nejčastěji používají nové sociální sítě, vede Instagram a TikTok. „Masivně nechodí na nějaké divné chaty a anonymní seznamky, z mého pohledu chat lidé.cz rozhodně není typický příklad toho, co děti běžně dělají,“ míní Macháčková. 
 
-Dokumentaristé argumentovali tím, že herečky na seznamkách komunikaci s predátory nepodněcovaly, jen v ní pokračovaly. V síti ale podle Macháčkové ukazuje specifický úsek reality. Právě i proto, že výzkumy dlouhodobě ukazují, že většina dětí v nepříjemných situacích zavírá okno prohlížeče a od monitorů odchází do bezpečí. 
+Dokumentaristé argumentovali tím, že herečky na seznamkách komunikaci s predátory nepodněcovaly, jen v ní pokračovaly. x ale podle Macháčkové ukazuje specifický úsek reality. Právě i proto, že výzkumy dlouhodobě ukazují, že většina dětí v nepříjemných situacích zavírá okno prohlížeče a od monitorů odchází do bezpečí. 
 
 ##  Mýtus starého, podivného pána
 
