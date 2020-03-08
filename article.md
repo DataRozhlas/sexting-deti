@@ -1,4 +1,4 @@
-title: "Nebezpečí <em>V síti</em>? Film ukazuje jen výsek reality. Osvětu nepotřebují jen děti, ale často ještě víc rodiče"
+title: "Nebezpečí <em>V síti</em>: Víc než děti potřebují často poradit rodiče"
 perex: "Na internetu tráví tři hodiny denně – dvakrát víc času než před deseti lety – a stále častěji si přes síť povídají s lidmi, které v životě neviděli. V Evropě jsou české děti od 9 do 16 let na druhém místě v tom, kolik z nich vidělo na počítači sexuálně laděný obsah. Podle autorů rozsáhlé studie o dětském chování on-line to samo o sobě není důvod k panice či zákazům: rizika on-line světa rodiče často zjednodušují a reagují ukvapeně, nyní třeba i pod vlivem divácky úspěšného filmu V síti, který však ukazuje jen část komplikované skutečnosti."
 coverimg: https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/uploader/147698334_2893c8c130_180207-071646_mos.jpg?itok=fi1P7A36
 coverimg_note: "Foto <a href='https://ctk.cz'>Flickr (CC BY 2.0)</a>"
