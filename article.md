@@ -1,11 +1,13 @@
 title: "Nebezpečí <em>V síti</em>: Víc než děti potřebují často poradit rodiče"
-perex: "Na internetu tráví tři hodiny denně – dvakrát víc času než před deseti lety – a stále častěji si přes síť povídají s lidmi, které v životě neviděli. V Evropě jsou české děti od 9 do 16 let na druhém místě v tom, kolik z nich vidělo na počítači sexuálně laděný obsah. Podle autorů rozsáhlé studie o dětském chování on-line to samo o sobě není důvod k panice či zákazům: rizika on-line světa rodiče často zjednodušují a reagují ukvapeně, nyní třeba i pod vlivem divácky úspěšného filmu V síti, který však ukazuje jen část komplikované skutečnosti."
+perex: "Na internetu tráví tři hodiny denně – dvakrát víc času než před deseti lety – a stále častěji si přes síť povídají s lidmi, které v životě neviděli. V Evropě jsou české děti od 9 do 16 let na druhém místě v tom, kolik z nich vidělo na počítači sexuálně laděný obsah."
 coverimg: https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/uploader/147698334_2893c8c130_180207-071646_mos.jpg?itok=fi1P7A36
 coverimg_note: "Foto <a href='https://ctk.cz'>Flickr (CC BY 2.0)</a>"
 styles: []
 libraries: [highcharts] #jquery, d3, highcharts, datatables
 options: [] #wide, noheader (, nopic)
 ---
+
+Podle autorů rozsáhlé studie o dětském chování on-line to samo o sobě není důvod k panice či zákazům: rizika on-line světa rodiče často zjednodušují a reagují ukvapeně, nyní třeba i pod vlivem divácky úspěšného filmu V síti, který však ukazuje jen část komplikované skutečnosti.
 
 Když se výzkumníci zaměřili jen na skupinu dospívajících od 15 do 16 let, v Česku každý druhý teenager připustil, že za poslední rok přes internet obdržel explicitní fotku nebo zprávu. To je nejvíc z devatenácti sledovaných evropských zemí.
 
