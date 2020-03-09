@@ -20,7 +20,7 @@ Nyní vědci publikují výsledky největší mezinárodní studie svého druhu 
 </div>
 </wide>
 
-Výsledky studie autoři doporučují posuzovat s chladnou hlavou a v celém kontextu: „Je důležité si uvědomit, že sexuálně zabarvené zprávy mohou být vyžádané nebo nevyžádané. Dříve si děti podobné zprávy vyměňovaly jinými způsoby, dnes to dělají pomocí digitálních technologgií,“ říká vedoucí výzkumu David Šmahel.  
+Výsledky studie autoři doporučují posuzovat s chladnou hlavou a v celém kontextu: „Je důležité si uvědomit, že sexuálně zabarvené zprávy mohou být vyžádané nebo nevyžádané. Dříve si děti podobné zprávy vyměňovaly jinými způsoby, dnes to dělají pomocí digitálních technologií,“ říká vedoucí výzkumu David Šmahel.  
 
 ## Normální součást dospívání
 
@@ -42,7 +42,7 @@ A když jde o jakýkoliv nepříjemný zážitek, víc než třetina dětí umí
 
 „Některé děti jsou více resilientní, zprávu smažou a nepoznamená je. Horší je to u těch citlivějších,“ vysvětluje psycholožka.
 
-Čím víc času děti na internetu tráví, tím je riziko nevyžádaného střetu se sexuálně laděnými obsahy vyšší. Za poslední dekádu se čas online ve všech sledovaných zemích téměř zdvojnásobil a českjé v porovnání s vrstevníky z jiných zemí nijak nevybočují: v průměru hraním her, chatováním s kamarády nebo sledováním videí stráví tři hodiny denně. Norské děti, které v této statistice vedou, stráví s připojeným mobilem či počítačem v průměru každý den ještě o hodinu déle.
+Čím víc času děti na internetu tráví, tím je riziko nevyžádaného střetu se sexuálně laděnými obsahy vyšší. Za poslední dekádu se čas online ve všech sledovaných zemích téměř zdvojnásobil a české děti v porovnání s vrstevníky z jiných zemí nijak nevybočují: v průměru hraním her, chatováním s kamarády nebo sledováním videí stráví tři hodiny denně. Norské děti, které v této statistice vedou, stráví s připojeným mobilem či počítačem v průměru každý den ještě o hodinu déle.
 
 ## Když je to na internetu, není to doopravdy
 
@@ -89,7 +89,7 @@ Data z výzkumu potrvzují, že špatnou zkušenost z internetu děti mívají s
 </div>
 </wide>
 
-„Nechci to zlehčovat, ale sexuální obtěžování dětí se neděje pořád a všude. Není nutné na to přehnaně reagovat panikou a začít dětem zakazovat přístup na internet,“ doplňuje Macháčková. , Lepší je podle ní uplatňovat proaktivní výchovu – povídat si s dětmi o tom, co na internetu dělají, sednout si s nimi k počítači a pomoci jim zareagovat na situace, do nichž se v on-line světě dostanou, poskytovat jim co nejúplnější internetové a technologické vzdělání.
+„Nechci to zlehčovat, ale sexuální obtěžování dětí se neděje pořád a všude. Není nutné na to přehnaně reagovat panikou a začít dětem zakazovat přístup na internet,“ doplňuje Macháčková. Lepší je podle ní uplatňovat proaktivní výchovu – povídat si s dětmi o tom, co na internetu dělají, sednout si s nimi k počítači a pomoci jim zareagovat na situace, do nichž se v on-line světě dostanou, poskytovat jim co nejúplnější internetové a technologické vzdělání.
 
 V evropském srovnání jsou na tom však čeští rodiče v některých ohledech vůbec nejhůř: 56 procent dětí uvedlo, že se s nimi doma nikdy o tom, jak se na internetu chovat bezpečně, nebavili. Přitom právě menším dětem by daleko víc než zákazy pomohla osvěta a praktická pomoc: jak si na sociálních sítích upravit nastavení, tak, aby je nikdo neobtěžoval?
 
@@ -100,7 +100,7 @@ V evropském srovnání jsou na tom však čeští rodiče v některých ohledec
 </div>
 </wide>
 
-Rodiče často předpokládájí, že dítě na možná rizika připraví škola. Vědci ale upozorňují, že také učitelé mnohdy mohou šířit bludy: ve výuce je podle nicj mimoříádně nebezpečné už jen ukotvování stereotypu predátora, na kterého by si měli dávat pozor - starého, divného pána. „Děti mají zjednodušenou představu predátora a pokud jí útočník neodpovídá, tak si řeknou ok, s tímhle můžu jít ven,“ upozorňuje Macháčková.
+Rodiče často předpokládájí, že dítě na možná rizika připraví škola. Vědci ale upozorňují, že také učitelé mnohdy mohou šířit bludy: ve výuce je podle nich mimořádně nebezpečné už jen ukotvování stereotypu predátora, na kterého by si měli dávat pozor - starého, divného pána. „Děti mají zjednodušenou představu predátora a pokud jí útočník neodpovídá, tak si řeknou ok, s tímhle můžu jít ven,“ upozorňuje Macháčková.
 
 ## Půjdeme offline?
 
