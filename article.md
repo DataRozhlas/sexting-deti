@@ -38,7 +38,7 @@ Přes internet si mládež podle studie posílá a dostává širokou škálu sd
 
 „Pokud dítě sexuálně laděnou zprávu dostane od někoho, koho má rádo, naváže další kontakt. Je to normální součást dospívání,“ vysvětluje sociální psycholožka Macháčková.
 
-A když jde o jakýkoliv nepříjemný zážitek, víc než třetina dětí umí zareagovat zavřením aplikace či zablokováním odesílatele. Každé sedmé dítě, častěji chlapci než dívky, pak upraví nastavení soukromí, případně nahlásí přestupek provozovateli dané platformy, aby je už stejný kontakt podruhé neobtěžoval. Jedno z deseti dětí pak reaguje tak, že internet na nějakou dobu přestane používat.  
+A když jde o jakýkoliv nepříjemný zážitek, víc než třetina dětí umí zareagovat zavřením aplikace či zablokováním odesílatele. Každé sedmé dítě, častěji chlapci než dívky, pak upraví nastavení soukromí, případně nahlásí přestupek provozovateli dané platformy, aby je už stejný kontakt podruhé neobtěžoval. Jedno z deseti dětí reaguje tak, že internet na nějakou dobu přestane používat.  
 
 „Některé děti jsou více resilientní, zprávu smažou a nepoznamená je. Horší je to u těch citlivějších,“ vysvětluje psycholožka.
 
