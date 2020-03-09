@@ -10,7 +10,7 @@ options: [] #wide, noheader (, nopic)
 Podle autorů rozsáhlé studie o dětském chování on-line to samo o sobě není důvod k panice či zákazům: rizika on-line světa rodiče často zjednodušují a reagují ukvapeně, nyní třeba i pod vlivem divácky úspěšného filmu V síti, který však ukazuje jen část komplikované skutečnosti.
 
 Když se výzkumníci zaměřili jen na skupinu dospívajících od 15 do 16 let, v Česku každý druhý teenager připustil, že za poslední rok přes internet obdržel sexuálně explicitní fotku nebo zprávu. To je nejvíc z devatenácti sledovaných evropských zemí.
-npm run 
+
 Experty takové zjištění na rozdíl od některých rodičů nešokuje: „Je to relativně hodně. Ale u nás jsme k sexuálním obsahům liberálnější. Netýká se to jen internetu, objevují se ve všech médiích,“ řekla v rozhovoru pro server iROZHLAS.cz sociální psycholožka Hana Macháčková z týmu [IRTIS](https://irtis.muni.cz/), který na Masarykově univerzitě zkoumá vliv digitálních technologií na společnost i lidskou psychiku.
 
 Nyní vědci publikují výsledky největší mezinárodní studie svého druhu [EU Kids Online 2020](https://irtis.muni.cz/news/eu-kids-online-2020-report). Zvyklosti, zážitky a chování na internetu zjišťovali u 25 tisíc dětí v devatenácti evropských zemích. 
