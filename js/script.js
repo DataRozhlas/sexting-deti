@@ -105,7 +105,7 @@ Highcharts.chart('negative', {
         enabled: false
     },
     title: {
-        text: 'Zažil jsi něco online, co tě rozrušilo?'
+        text: 'Zažil/a jsi něco online, co tě rozrušilo?'
     },
     credits: {
         enabled: true,
@@ -167,7 +167,7 @@ Highcharts.chart('sexzpravy', {
         type: 'bar'
     },
     title: {
-        text: 'Dostal jsi jakýkoliv sexuálně zabarvený obsah?'
+        text: 'Dostal/a jsi někdy v posledním roce zprávu se sexuálním obsahem?'
     },
     credits: {
         enabled: true,

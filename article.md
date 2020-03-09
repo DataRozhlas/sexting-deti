@@ -9,9 +9,9 @@ options: [] #wide, noheader (, nopic)
 
 Podle autorů rozsáhlé studie o dětském chování on-line to samo o sobě není důvod k panice či zákazům: rizika on-line světa rodiče často zjednodušují a reagují ukvapeně, nyní třeba i pod vlivem divácky úspěšného filmu V síti, který však ukazuje jen část komplikované skutečnosti.
 
-Když se výzkumníci zaměřili jen na skupinu dospívajících od 15 do 16 let, v Česku každý druhý teenager připustil, že za poslední rok přes internet obdržel explicitní fotku nebo zprávu. To je nejvíc z devatenácti sledovaných evropských zemí.
+Když se výzkumníci zaměřili jen na skupinu dospívajících od 15 do 16 let, v Česku každý druhý teenager připustil, že za poslední rok přes internet obdržel sexuálně explicitní fotku nebo zprávu. To je nejvíc z devatenácti sledovaných evropských zemí.
 
-Experty takové zjištění na rozdíl od některých rodičů nechává v klidu: „Je to relativně hodně. Ale u nás jsme k sexuálním obsahům liberálnější. Netýká se to jen internetu, objevují se ve všech médiích,“ řekla v rozhovoru pro server iROZHLAS.cz sociální psycholožka Hana Macháčková z týmu [IRTIS](https://irtis.muni.cz/), který na Masarykově univerzitě zkoumá vliv digitálních technologií na společnost i lidskou psychiku.
+Experty takové zjištění na rozdíl od některých rodičů nešokuje: „Je to relativně hodně. Ale u nás jsme k sexuálním obsahům liberálnější. Netýká se to jen internetu, objevují se ve všech médiích,“ řekla v rozhovoru pro server iROZHLAS.cz sociální psycholožka Hana Macháčková z týmu [IRTIS](https://irtis.muni.cz/), který na Masarykově univerzitě zkoumá vliv digitálních technologií na společnost i lidskou psychiku.
 
 Nyní vědci publikují výsledky největší mezinárodní studie svého druhu [EU Kids Online 2020](https://irtis.muni.cz/news/eu-kids-online-2020-report). Zvyklosti, zážitky a chování na internetu zjišťovali u 25 tisíc dětí v devatenácti evropských zemích. 
 
@@ -38,7 +38,7 @@ Přes internet si mládež podle studie posílá a dostává širokou škálu sd
 
 „Pokud dítě sexuálně laděnou zprávu dostane od někoho, koho má rádo, naváže další kontakt. Je to normální součást dospívání,“ vysvětluje sociální psycholožka Macháčková.
 
-A když jde o nepříjemný zážitek, víc než třetina dětí umí zareagovat zavřením aplikace či zablokováním odesílatele. Každé sedmé dítě, častěji chlapci než dívky, pak upraví nastavení soukromí, případně nahlásí přestupek provozovateli dané platformy, aby je už stejný kontakt podruhé neobtěžoval. Jedno z deseti dětí pak reaguje tak, že internet na nějakou dobu přestane používat.  
+A když jde o jakýkoliv nepříjemný zážitek, víc než třetina dětí umí zareagovat zavřením aplikace či zablokováním odesílatele. Každé sedmé dítě, častěji chlapci než dívky, pak upraví nastavení soukromí, případně nahlásí přestupek provozovateli dané platformy, aby je už stejný kontakt podruhé neobtěžoval. Jedno z deseti dětí pak reaguje tak, že internet na nějakou dobu přestane používat.  
 
 „Některé děti jsou více resilientní, zprávu smažou a nepoznamená je. Horší je to u těch citlivějších,“ vysvětluje psycholožka.
 
@@ -53,7 +53,7 @@ A když jde o nepříjemný zážitek, víc než třetina dětí umí zareagovat
 </div>
 </wide>
 
-Proč s věkem dotazovaných pozitivních odpovědí přibývá? Neměly by být starší děti otrlejší? Podle vědců je to způsobené právě tím, jak děti s přibývajícím věkem tráví víc času on-line. „Čím více používáme internet, tím větší je šance, že se nám něco takového stane,“ upřesňuje data sociální psycholožka Macháčková.
+Proč s věkem dotazovaných pozitivních odpovědí přibývá? Neměly by být starší děti otrlejší? Podle vědců je to způsobené právě tím, jak děti s přibývajícím věkem tráví víc času on-line. „Čím více používáme internet, tím větší je šance, že se nám něco takového stane. Spíše ale s touto situací dokážeme vyrovnat a vhodně na ni zareagovat,“ upřesňuje data sociální psycholožka Macháčková.
 
 Zajímavé může být srovnání s Německem. Děti tam výzkumníkům řekly, že nepříjemné situace zažívají minimálně - v nejmladší sledované kategorii se jich s nimi z poslední rok setkala jen tři procenta školáků. Jedním z důvodů může být tradičně ostražitější přístup Němců k ochraně soukromí a z něj vyplývající přísnější regulace internetu. Němci si také historicky více hlídají nenávistné projevy, které patří mezi obsahy, jež mohou děti rozrušit.
 
@@ -64,7 +64,7 @@ Zajímavé může být srovnání s Německem. Děti tam výzkumníkům řekly, 
 	</p>
 </left>
 
-Jinde je skutečný svět od toho virtuálního v představách lidí jasně oddělen. „V Česku je hodně silná představa, že pokud něco děláme na internetu, není to doopravdy,“ míní Macháčková.
+Jinde je skutečný svět od toho virtuálního v představách lidí jasně oddělen. „V Česku je u mnoha lidí hodně silná představa, že pokud něco děláme na internetu, není to doopravdy,“ míní Macháčková.
 
 Představa internetu jako prostoru, kde je dovoleno téměř vše, protože se o tom nikdo nedozví, je ale zavádějící. „Internet není anonymní místo, to je jeden z mýtů. Všechno, co uživatel dělá, zanechává elektronický otisk, který nás může velmi často nasměrovat ke konkrétnímu člověku,“ řekl v rozhovoru pro Radiožurnál vedoucí oddělení informační kriminality pražské policie Václav Písecký.
 
@@ -82,7 +82,7 @@ Pokud si dospělí diváci tyto rozdíly neuvědomí, hrozí, že v reakci na fi
 
 ##  Mýtus starého, podivného pána
 
-Data z výzkumu potrvzují, že špatnou zkušenost z internetu děti mívají spíše sporadicky. I jedna ale může být významná. „Citlivějšímu dítěti může být nepříjemná i zdánlivě nevinná otázka na to, jak se mu daří ve škole,“ vysvětluje pro server iROZHLAS.cz sociální psycholožka Lenka Dědková z Institutu výzkumu dětí, mládeže a rodiny Masarykovy univerzity.
+Data z výzkumu potrvzují, že špatnou zkušenost z internetu děti mívají spíše sporadicky. I jedna ale může být významná. „Citlivějšímu dítěti může být nepříjemná i zdánlivě nevinná otázka na to, jak se mu daří ve škole,“ vysvětluje pro server iROZHLAS.cz sociální psycholožka Lenka Dědková z týmu IRTIS Masarykovy univerzity.
 
 <wide>
 <div id="frekvence", class="vysoky">
@@ -100,7 +100,7 @@ V evropském srovnání jsou na tom však čeští rodiče v některých ohledec
 </div>
 </wide>
 
-Rodiče často předpokládájí, že dítě na možná rizika připraví škola. Vědci ale upozorňují, že také učitelé mnohdy šíří bludy: ve výuce je podle nicj mimoříádně nebezpečné už jen ukotvování stereotypu predátora, na kterého by si měli dávat pozor - starého, divného pána. „Děti mají zjednodušenou představu predátora a pokud jí útočník neodpovídá, tak si řeknou ok, s tímhle můžu jít ven,“ upozorňuje Macháčková.
+Rodiče často předpokládájí, že dítě na možná rizika připraví škola. Vědci ale upozorňují, že také učitelé mnohdy mohou šířit bludy: ve výuce je podle nicj mimoříádně nebezpečné už jen ukotvování stereotypu predátora, na kterého by si měli dávat pozor - starého, divného pána. „Děti mají zjednodušenou představu predátora a pokud jí útočník neodpovídá, tak si řeknou ok, s tímhle můžu jít ven,“ upozorňuje Macháčková.
 
 ## Půjdeme offline?
 
@@ -132,4 +132,4 @@ Nepatrné rozdíly čeští výzkumníci zaznamenali mezi pohlavími - dívky se
 
 „Může to být dáno i kulturně, když se bavíme o bezpečnosti na internetu i mimo něj, často míříme jen na dívky. Také film V síti je jen o holkách, více tak zvyšujeme povědomí o tom, že pro ně není těžké, aby se něco stalo,“ říká Macháčková.
 
-Dodáva, že dívky mívají dřívejší nástup puberty, s kterým se rizikové momenty pojí. „Kluci pořád více paří hry, ve kterých jejich postavu může někdo zabít, ale nebezpečně se kvůli tomu cítit nebudou.“
+Dodáva, že dívky mívají dřívejší nástup puberty, s kterým se rizikové momenty mohou pojit. „Kluci pořád více paří hry, ve kterých jejich postavu může někdo zabít, ale nebezpečně se kvůli tomu asi cítit nebudou.“
